@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3 align="center">
-        <samp>&gt; Opa!, Me chamo
+        <samp>&gt; Opa, Me chamo
                 <b><a target="_blank" href="">Sandro Altenhofen Junior</a></b>
         </samp>
 </h3>
